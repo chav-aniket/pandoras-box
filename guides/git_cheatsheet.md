@@ -1,7 +1,6 @@
 # Git Cheat Sheet
-Tags: #cheatsheet, #git, #pull, #push, #branch, #commit, #merge, #remote
-
-Related: [[]]
+Tags: #cheatsheet, #git, #pull, #push, #branch, #commit, #merge, #remote <br>
+Related: [[]] <br>
 
 Todo: reverting merges, git stashes, unstaging commits, reverting to remote head, git messages,
 

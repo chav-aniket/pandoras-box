@@ -1,5 +1,6 @@
-# Linked Lists
-Tags: #guide, #C
+# Linked Lists Guide
+Tags: #guide, #C. #linkedlist,  <br>
+Related: [[]] <br>
 
 This is pretty in-depth so if you don't understand something don't be scared, take it in bits at a time and ask us questions so we can make sure that everything is connecting, just like a linked list of information :) 
 

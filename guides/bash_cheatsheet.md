@@ -1,6 +1,6 @@
 # Bash Cheat Sheet
-Tags: #bash, #linux, #cheatsheet 
-Related: [[]]
+Tags: #cheatsheet, #bash, #linux <br>
+Related: [[]] <br>
 ## Theory
 
 The `shell` is the environment in which you can interact with your computer using command lines. `Bash` is one such environment. Other examples of shells are Zsh and Fish. A terminal is an application which allows you to use a shell.
