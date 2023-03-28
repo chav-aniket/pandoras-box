@@ -1,0 +1,3 @@
+# Linguist Overrides
+*.md linguist-detectable=true
+README.md linguist-detectable=false
